@@ -1,0 +1,23 @@
+name: Kaitlyn
+favicon: null
+layout_spectrum: 0.11866624839603901
+typography_spectrum: 0.4327458131592721
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7395922804716974
+  lightness: 0.0037190488073974848
+  saturation: 0.9845598665997386
+  rhythmicContrast: 0.5236821216531098
+purpose: []
